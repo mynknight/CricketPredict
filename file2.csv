@@ -1,0 +1,11 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,team_count_50runs_last15,11.896798565742415,1,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+2,team_avg_bowling_economy_last15,11.640887933069502,2,
+3,lighting_effectiveness_ratio,10.885687347470551,3,
+4,team_avg_strike_rate_last15,8.911496306559615,4,
+5,team_winp_last5,6.9587710958607145,5,Ratio of team1's win % to team2's win % in last 5 games
+6,team1only_avg_runs_last15,6.181853698358605,6,team1's avg inning runs in last 15 games
+7,ground_avg_runs_last15,5.400103821624249,7,average runs scored in the ground in last 15 games
+8,team_avg_win_wickets_ratio,5.192935457535476,8,
+9,team_avg_win_runs_ratio,2.2615640438516356,9,
+10,toss_winner_01,1.5669978819388704,10,"Toss winner to numerical - 1 if team2 wins, else 0"
